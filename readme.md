@@ -17,7 +17,7 @@ A clean, responsive hotel/restaurant website template built with plain HTML, CSS
 - [Author / Contact](#author--contact)
 - [License](#license)
 
-## Features
+## FeaturesS
 
 - Responsive layout for hotel/restaurant pages
 - Multiple HTML pages: home, about, rooms, restaurant menu, blog, contact
